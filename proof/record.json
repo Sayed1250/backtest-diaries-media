@@ -1,0 +1,51 @@
+{
+ "about": "One fingerprint per day of our bot's record in the live market test (real prices, real time, simulated money). See README.md.",
+ "format": 1,
+ "days": [
+  {
+   "day": "2026-11-01",
+   "fingerprint": "90d5c209e7ebd176d8a8fe8e79e970273e755f7466904b28cd31ad661cc83fbc",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-02",
+   "fingerprint": "840642de8ad0b4b03ec757e383d73bf3ca80273e402ba8f44b9139326a214c2c",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-03",
+   "fingerprint": "5d15bc3e76d0e06ffcd55a0ff57247348dd4d53b4ef3dce48b33e884dc3c5ea9",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-04",
+   "fingerprint": "a807501c9ec4dc81c6bad974a5a19e21734717e32b2733219f65d1c8f8d39709",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-05",
+   "fingerprint": "d7dec62fe187ab853b041cdad4f7195cf9a4a82844be64aac7a3cfbb8a075c79",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-06",
+   "fingerprint": "f4e061f3b7e580136e3bdf8dbd44d10313beb553eb6a4308561d214205dc0202",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-07",
+   "fingerprint": "072307175e733f78470276b5a9a8249b3c54e066b9ddcb0cdd8e4f77fdd01c10",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-08",
+   "fingerprint": "673081b55e5b50e86c8585dc0643ada192a9378742b3ac9fdd9bc066c5968290",
+   "published": "2026-11-10T04:17Z"
+  },
+  {
+   "day": "2026-11-09",
+   "fingerprint": "ef2be4392d2f81bc9441cf34d388f6807ea2b578a178d34b103701545aa11474",
+   "published": "2026-11-10T04:17Z"
+  }
+ ]
+}
